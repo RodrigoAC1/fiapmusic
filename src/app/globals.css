@@ -25,3 +25,13 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.Titulo{
+  padding-left:5rem;
+  padding-top:3rem;
+}
+
+.Titulo2{
+  padding-left: 5rem;
+  padding-top: 23rem;
+}
